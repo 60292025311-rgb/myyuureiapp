@@ -1,0 +1,10 @@
+{
+  // Cloudflare Workers / Pages 設定
+  "name": "myyuureiapp",
+  "compatibility_date": "2024-09-01",
+
+  // 静的ファイルを Workers Static Assets として配信
+  "assets": {
+    "directory": "./public"
+  }
+}
